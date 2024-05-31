@@ -3,22 +3,3 @@
     margin: 0;
     box-sizing: border-box;
 }
-.d-flex img{
-    width: 100px;
-    height: 100px;
-}
-.d-flex p{
-    width: 500px;
-}
-.d-flex button{
-    background-color: #8B3DFF;
-    border: 1px solid #8B3DFF;
-}
-.d-flex div{
-    margin-left: 50px;
-}
-.d-flex div ul li{
-    font-size: 18px;
-    text-decoration: none;
-    list-style: none;
-}
