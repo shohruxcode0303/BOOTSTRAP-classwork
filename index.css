@@ -3,22 +3,3 @@
     margin: 0;
     box-sizing: border-box;
 }
-.bg-light img{
-    width: 100px;
-    height: 100px;
-}
-.bg-light p{
-    width: 500px;
-}
-.bg-light button{
-    background-color: #8B3DFF;
-    border: 1px solid #8B3DFF;
-}
-.bg-light div{
-    margin-left: 50px;
-}
-.bg-light div ul li{
-    font-size: 18px;
-    text-decoration: none;
-    list-style: none;
-}
